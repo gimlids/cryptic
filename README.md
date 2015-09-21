@@ -1,0 +1,2 @@
+# cryptic
+testing git-crypt
